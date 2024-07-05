@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Ananke</title>
+    <title>Data Engineering Portfolio on shreyas ratnaparkhi</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Ananke</description>
+    <description>Recent content in Data Engineering Portfolio on shreyas ratnaparkhi</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
@@ -55,7 +55,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <description>Welcome to My Data Engineering Portfolio!&#xA;Hello and Welcome! I&amp;rsquo;m Shreyas, a data engineering professional, Within this portfolio showcasing a selection of personal projects that highlight my expertise in tackling diverse data challenges. These projects not only demonstrate my technical skills but also reflect my ongoing commitment to staying updated with the ever changing data tech stack.&#xA;Connect with me on LinkedIn to explore how we can collaborate on data strategies.</description>
     </item>
     <item>
       <title>Contact</title>
